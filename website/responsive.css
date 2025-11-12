@@ -1,0 +1,58 @@
+@media (min-width: 320px) and (max-width: 990px) {
+  nav {
+    display: none;
+  }
+
+  .menu {
+    display: block;
+  }
+
+  header {
+    padding: 10px 40px 10px 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  header h1 {
+    font-size: 20px;
+  }
+
+  .hero {
+    padding: 40px;
+  }
+
+  .hero p {
+    font-size: 18px;
+  }
+
+  .row img {
+    width: 280px;
+  }
+
+  .about {
+    padding: 40px;
+  }
+
+  .about .para {
+    flex-wrap: wrap;
+  }
+
+  .para p {
+    width: 280px;
+    font-size: 16px;
+  }
+
+  .about button {
+    font-size: 16px;
+    padding: 20px 20px 20px 20px;
+  }
+
+.inp input , .inp textarea{
+
+   width: 80vw;
+}
+
+.parent-1{
+  padding-left: 0px;
+}
+
+}
